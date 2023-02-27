@@ -1,0 +1,18 @@
+$ Git Hub
+referência: https://github.com/
+relação: uma plataforma para progamadores para aula .
+$ Python
+referência: https://www.python.org/
+relação : será uma das  linguagens usada na aula.
+$ Visual Code 
+referência: https://code.visualstudio.com/
+relação:  é um editor denvolvido pela Microsoft para Windowns com propósito de auxiliar programadores na criação de códigos de softwares.
+$ Sqlitebrowser
+referência: https://sqlitebrowser.org/
+relação: tem como objetivo de usuários possam modificar e alterar usando os os wizards do SQLite.
+$ Google Chrome 
+referência: https://www.google.com
+relação: é um dos navegadores mais usados por todas pessoas e serve para navegar com mais segurança e de forma prática.
+$ Firefox 
+referência: https://www.mozilla.org
+relação: é um dos navegador utilizados por múltiplos usuários.
