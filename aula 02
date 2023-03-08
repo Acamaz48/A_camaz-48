@@ -1,0 +1,9 @@
+$Protocolo 
+relação: protocolo de internet no caso  "IP" é um conjunto de regras ou normas para roteamento de dados para alcançar seu desntinofinal.
+$"NetBIOS"
+relação: junto com "TCP/IP" fornece a interface de programação "NetBIOS" sobre o protocolo "TCP/IP".
+Com isso ele estende o alcance dos sistemas do usuário e servidor "NetBIOS"
+relação: "NetBIOS" fornece serviços como :
+$ [Serviços de nomes para registro e resolução de nomes]
+$ [Serviços de sessão para expressão orientada À conexão]
+$ [Serviços de distribuição de datagrama para comunicação sem conexão]
