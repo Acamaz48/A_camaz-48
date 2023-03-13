@@ -1,0 +1,28 @@
+https://replit.com/@ACP14/Aula-04#main.py
+import math 
+
+a = b = 3
+c = 5
+y = a + 4 * b - (2*(c + 6))
+print(y)
+
+import math 
+pi = 3,14
+v = 4/3 * 3,14 * 4,5**3
+print(v)
+
+import math 
+a = (5+3)**34
+print(a)
+b = 6.237 * a 
+print (b)
+
+
+num = input("Digite um número:\n")
+raiz = float(num) ** 0.5
+print(f'\nA raiz quadrada de {num} é {raiz}\n')
+
+
+p = (6.237*(5+3)**34)**0,5
+print(p)
+
