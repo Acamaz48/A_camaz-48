@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste Java ></title>
+    <script type="text/javascript" src="script.js" defer>
+    </script>
+  
+    
+</head>
+<body>
+    <p><span id="meu_span">2</span></p>
+    <button id="meu_botao">Aperte aqui!</button>
+    <div class="minha_div"></div>
+    <div class="minha_div"></div>
+    <div class="minha_div"></div>
+</body>
+</html>
+
