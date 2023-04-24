@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Titulo do documento da prova</title>
+    <meta charset='UTF-8'>
+</head>
+<body>
+    <h1>Esse é um cabeçalho de nivel1</h1>
+    <p>Esse é um parágrafo do documento</p>
+    <input type ='text' value ='texto'>
+    <button> Esse é um botão</button>
+    <input type ='button' value = 'Esse é um botão'>
+</body>
+</html>
