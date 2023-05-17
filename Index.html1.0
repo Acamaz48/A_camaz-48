@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Percorrendo Arrays</title>
+    <script src = "script.js" defer></script>
+</head>
+<body>
+    <ul>
+        <li><a
+            href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps"
+            targert = "_blank"
+        >Vetores</a></li>
+        <li>Java Script e DOM</li>
+        <li>Funções</li>
+        <li>Estrutura de decisões</li>
+        <li>Estruturas de Repetição</li>
+        <li>Arrays</li>   
+    </ul> 
+    <div>
+        <div id ="colrida"></div>
+        <input type = "color" id = "input_color">
+    </div>  
+    <div id ="imagens">
+        <img src="imagens/numero_1.png">
+        <img src="imagens/numero_2.png">
+        <img src="imagens/numero_3.png">
+    </div>
+       
+</body>
+</html>
