@@ -1,0 +1,40 @@
+#container {
+    display: grid;
+    gap: .5em;
+    max-width: 1600px;
+    margin: auto;
+}
+
+#container > div {
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    border: solid black 1px;
+    border-radius: 5px;
+    padding: 1em;
+
+}
+
+#div_4, #div_5, #div_6, #div_7, #div_8 {
+    display: none;
+}
+
+@media only screen and (min-width: 375px){
+    #container{
+        grid-template-columns: auto auto;
+    }
+
+    #div_4, #div_5, #div_6{
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 768px){
+    #container{
+        grid-template-columns: auto auto auto auto;
+    }
+
+    #div_7, #div_8 {
+        display: block;
+    }
+}
